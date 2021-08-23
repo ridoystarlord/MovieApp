@@ -1,14 +1,14 @@
-package com.ridoy.movieapp.Service.Repository;
+package com.ridoy.movieapp.Model.Repository;
 
 import android.content.Context;
 import android.widget.Toast;
 
 import androidx.lifecycle.MutableLiveData;
 
-import com.ridoy.movieapp.Service.Model.MovieModel;
-import com.ridoy.movieapp.Service.Model.Result;
-import com.ridoy.movieapp.Service.Network.ApiServices;
-import com.ridoy.movieapp.Service.Network.RetrofitInstrance;
+import com.ridoy.movieapp.Model.ModelClass.MovieModel;
+import com.ridoy.movieapp.Model.ModelClass.Result;
+import com.ridoy.movieapp.Model.Network.ApiServices;
+import com.ridoy.movieapp.Model.Network.RetrofitInstrance;
 
 import java.util.List;
 

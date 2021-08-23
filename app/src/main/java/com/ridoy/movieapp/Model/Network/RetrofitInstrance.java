@@ -1,4 +1,4 @@
-package com.ridoy.movieapp.Service.Network;
+package com.ridoy.movieapp.Model.Network;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

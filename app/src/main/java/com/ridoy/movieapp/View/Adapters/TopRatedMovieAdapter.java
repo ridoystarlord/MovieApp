@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.ridoy.movieapp.R;
-import com.ridoy.movieapp.Service.Model.Result;
+import com.ridoy.movieapp.Model.ModelClass.Result;
 import com.ridoy.movieapp.databinding.SingleMovieViewBinding;
 
 import java.util.List;

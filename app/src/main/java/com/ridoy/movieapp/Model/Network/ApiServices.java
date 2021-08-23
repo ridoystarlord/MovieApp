@@ -1,6 +1,6 @@
-package com.ridoy.movieapp.Service.Network;
+package com.ridoy.movieapp.Model.Network;
 
-import com.ridoy.movieapp.Service.Model.MovieModel;
+import com.ridoy.movieapp.Model.ModelClass.MovieModel;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

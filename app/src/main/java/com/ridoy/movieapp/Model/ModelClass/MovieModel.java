@@ -1,4 +1,4 @@
-package com.ridoy.movieapp.Service.Model;
+package com.ridoy.movieapp.Model.ModelClass;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

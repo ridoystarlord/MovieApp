@@ -6,8 +6,8 @@ import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.LiveData;
 
-import com.ridoy.movieapp.Service.Model.Result;
-import com.ridoy.movieapp.Service.Repository.MovieRepository;
+import com.ridoy.movieapp.Model.ModelClass.Result;
+import com.ridoy.movieapp.Model.Repository.MovieRepository;
 
 import java.util.List;
 

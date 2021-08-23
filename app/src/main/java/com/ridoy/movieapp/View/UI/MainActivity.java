@@ -3,17 +3,14 @@ package com.ridoy.movieapp.View.UI;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
-import androidx.recyclerview.widget.GridLayoutManager;
 
 import android.os.Bundle;
 
-import com.ridoy.movieapp.R;
-import com.ridoy.movieapp.Service.Model.Result;
+import com.ridoy.movieapp.Model.ModelClass.Result;
 import com.ridoy.movieapp.View.Adapters.TopRatedMovieAdapter;
 import com.ridoy.movieapp.ViewModel.TopRatedMovieListViewModel;
 import com.ridoy.movieapp.databinding.ActivityMainBinding;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
